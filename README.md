@@ -20,6 +20,5 @@ This project is part of an assessment for the University of Central Lancashire. 
 1. Ensure `firstNames.txt` and `lastNames.txt` are in the project directory.
 2. Open a terminal or command prompt.
 3. Navigate to the project directory.
-4. Execute the script:
-   ```sh
-   python name_list_shuffler.py
+4. Execute the script.
+
